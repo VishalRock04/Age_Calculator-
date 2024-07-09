@@ -19,6 +19,6 @@ $import datetime
 
 
 # Screenshots
+![Screenshot 2024-07-09 045222](https://github.com/VishalRock04/Age_Calculator-/assets/133562727/02d6945d-7b78-4ed1-bf23-ec960f1aada0)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
